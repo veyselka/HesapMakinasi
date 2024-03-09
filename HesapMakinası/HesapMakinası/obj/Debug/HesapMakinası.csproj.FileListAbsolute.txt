@@ -1,0 +1,10 @@
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\bin\Debug\HesapMakinası.exe.config
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\bin\Debug\HesapMakinası.exe
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\bin\Debug\HesapMakinası.pdb
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\obj\Debug\HesapMakinası.csproj.AssemblyReference.cache
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\obj\Debug\HesapMakinası.Form1.resources
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\obj\Debug\HesapMakinası.Properties.Resources.resources
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\obj\Debug\HesapMakinası.csproj.GenerateResource.cache
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\obj\Debug\HesapMakinası.csproj.CoreCompileInputs.cache
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\obj\Debug\HesapMakinası.exe
+C:\Users\vıctus\source\repos\HesapMakinası\HesapMakinası\obj\Debug\HesapMakinası.pdb

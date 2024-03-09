@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v\u0131ctus\\source\\repos\\HesapMakinas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{925D1AA1-8DAC-421E-A649-CE585F714830}|HesapMakinas\u0131\\HesapMakinas\u0131.csproj|c:\\users\\v\u0131ctus\\source\\repos\\hesapmakinas\u0131\\hesapmakinas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925D1AA1-8DAC-421E-A649-CE585F714830}|HesapMakinas\u0131\\HesapMakinas\u0131.csproj|solutionrelative:hesapmakinas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{925D1AA1-8DAC-421E-A649-CE585F714830}|HesapMakinas\u0131\\HesapMakinas\u0131.csproj|C:\\Users\\v\u0131ctus\\source\\repos\\HesapMakinas\u0131\\hesapmakinas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{925D1AA1-8DAC-421E-A649-CE585F714830}|HesapMakinas\u0131\\HesapMakinas\u0131.csproj|solutionrelative:hesapmakinas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\HesapMakinas\u0131\\HesapMakinas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "HesapMakinas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\HesapMakinas\u0131\\HesapMakinas\u0131\\Form1.cs",
+              "RelativeToolTip": "HesapMakinas\u0131\\Form1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAiwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:15:31.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\HesapMakinas\u0131\\HesapMakinas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "HesapMakinas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\HesapMakinas\u0131\\HesapMakinas\u0131\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HesapMakinas\u0131\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:03:49.375Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
