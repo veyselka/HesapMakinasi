@@ -127,11 +127,21 @@ namespace HesapMakinası
                     sonuc = Convert.ToDouble(textBox1.Text.Substring(0, i)) / Convert.ToDouble(textBox1.Text.Substring(i + 1, textBox1.Text.Length - i - 1));
                     break;
                 }
+                else if (textBox1.Text[i]== '%')
+                {
+                    sonuc = Convert.ToDouble(textBox1.Text.Substring(0, i)) % Convert.ToDouble(textBox1.Text.Substring(i + 1, textBox1.Text.Length - i - 1));
+                    break;
+                }
             }
 
             textBox1.Text=Convert.ToString(sonuc);
         }
-        
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            Button btn = (Button)sender;
+            textBox1.Text += " "+btn.Text+" ";
+        }
     }
     public class Eleman
     {
