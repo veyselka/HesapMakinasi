@@ -124,6 +124,11 @@ namespace HesapMakinası
                 }
                 else if (textBox1.Text[i] == '/')
                 {
+                    if(Convert.ToDouble(textBox1.Text.Substring(0,i))==0 && Convert.ToDouble(textBox1.Text.Substring(i+1,textBox1.Text.Length -i - 1)) == 0)
+                    {
+                        textBox1.Text = Convert.ToString("Tanımsız");
+                        break;
+                    }
                     sonuc = Convert.ToDouble(textBox1.Text.Substring(0, i)) / Convert.ToDouble(textBox1.Text.Substring(i + 1, textBox1.Text.Length - i - 1));
                     break;
                 }
@@ -141,6 +146,11 @@ namespace HesapMakinası
         {
             Button btn = (Button)sender;
             textBox1.Text += " "+btn.Text+" ";
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
     public class Eleman
